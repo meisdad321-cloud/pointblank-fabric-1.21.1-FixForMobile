@@ -1,30 +1,30 @@
-Point Blank Fabric 1.21.1 Groovy Fix
+# Point Blank Fabric 1.21.1 - Fix For Mobile
 
-Compatibility fix for Point Blank 2.2.0 on Minecraft 1.21.1 Fabric.
+Mobile compatibility fix for Point Blank 2.2.0 on Minecraft 1.21.1 Fabric.
 
-Features
+## Features
 
 - Includes the required Groovy 4.0.13 runtime
 - Fixes Groovy script compatibility with Fabric's intermediary mappings
 - Fixes runtime errors in Point Blank's Groovy scripts
 
-Version
+## Version
 
 - Minecraft: 1.21.1
 - Point Blank: 2.2.0
 - Fabric Loader: 0.19.5
 - Groovy: 4.0.13
 
-Installation
+## Installation
 
-1. Download the latest ".jar" from Releases.
-2. Replace the original Point Blank ".jar" in your "mods" folder.
+1. Download the latest `.jar` from **Releases**.
+2. Replace the original Point Blank `.jar` in your `mods` folder.
 3. Launch Minecraft with Fabric 1.21.1.
 
-The Groovy runtime is already included. You do not need to install "groovy-4.0.13.jar" separately.
+The Groovy runtime is already included. You do **not** need to install `groovy-4.0.13.jar` separately.
 
-Credits
+## Credits
 
-Original mod: Point Blank: Jelly
+Original mod: **Point Blank: Jelly**
 
-This repository contains compatibility fixes for running the mod on Fabric 1.21.1.
+This repository contains compatibility fixes for running the mod on mobile environments.
