@@ -1,4 +1,4 @@
-# PointBlankJelly Fabric 1.21.1 - Fix For Mobile
+# PointBlank Fabric 1.21.1 - Fix For Mobile
 
 Mobile compatibility fix for Point Blank 2.2.0 on Minecraft 1.21.1 Fabric.
 
